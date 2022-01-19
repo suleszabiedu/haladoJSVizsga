@@ -10,4 +10,5 @@ A függvények definíciójánál és hívásánál pedig az async és await ope
 ## Hivatkozások
 
 [fetch](https://www.w3schools.com/js/js_api_fetch.asp)
+
 [async/await](https://www.w3schools.com/js/js_async.asp)
